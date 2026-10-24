@@ -15,6 +15,11 @@ This project uses unsupervised machine learning to group mall customers based on
 - K-Means Clustering
 - StandardScaler
 
+## Graph Screenshot
+**Final Report Graph**
+
+![](https://github.com/mohamud007/Customer_Segementation_App/blob/main/Screenshot%202026-10-24%20222503.png)
+
 ## Dataset
 
 The Mall Customers dataset contains customer information such as:
