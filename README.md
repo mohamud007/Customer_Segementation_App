@@ -50,16 +50,7 @@ The model uses Annual Income and Spending Score as its clustering features.
 Customer-Segmentation-ML/
 ├── data/
 │   └── Mall_Customers.csv
-├── notebooks/
 ├── outputs/
-├── load_data.py
-├── visualize_data.py
-├── prepare_data.py
-├── customer_segmentation.py
-├── analyze_clusters.py
-├── find_optimal_clusters.py
-├── scaled_segmentation.py
-├── segment_insights.py
 ├── final_report.py
 ├── requirements.txt
 ├── .gitignore
